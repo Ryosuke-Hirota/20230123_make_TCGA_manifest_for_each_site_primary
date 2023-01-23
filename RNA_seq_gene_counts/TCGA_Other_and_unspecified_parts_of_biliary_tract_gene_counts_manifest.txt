@@ -1,0 +1,4 @@
+id	filename	md5	size	state
+bf6396e9-29c4-42e1-bd50-fc7136215820	b82b916e-f3f6-445e-a723-0730f41f0034.rna_seq.augmented_star_gene_counts.tsv	1e6f1265791851ce0c9e95423640c9d8	4227373	released
+7a48e51b-adea-4f9b-853b-acef7b644859	de0ac50b-034d-4d50-9438-29e74282205b.rna_seq.augmented_star_gene_counts.tsv	218895ada73f77ac75cd5ac20fd1e416	4205764	released
+f168aeeb-51af-4c6f-bc35-9b3326da8ad6	04d8b09b-f8d9-4c88-bf4c-920d5c5577b5.rna_seq.augmented_star_gene_counts.tsv	493d49d520b428c71c1dbd7f708d71c8	4235355	released
