@@ -1,0 +1,27 @@
+# 20230123_make_TCGA_manifest_for_each_site_primary
+
+# ファイルの説明
+
+・20230123_make_TCGA_manifest_for_each_site_primary_and_file_type.R
+TCGAのポータルサイトからダウンロードしたマニフェスト(下記3つのファイル)から、各原発部位ごとにマニフェストをつくるスクリプト。
+Rのパッケージによりマニフェストから取得したfile idをcase idに変換し、さらに別のパッケージでcase idから原発部位の情報を得て、最終的に各原発部位ごとに抽出する。
+
+・TCGA_transcriptome_all_files_gdc_manifest.2023-01-23.txt
+TCGAに存在するRNA-seq transcriptome bamのデータのうち、TCGAプロジェクトのみのファイルをダウンロードするためのマニフェスト。
+
+・TCGA_miRNA_all_files_gdc_manifest.2023-01-23.txt
+TCGAに存在するmiRNA-seq miRNA quantificationのデータのうち、TCGAプロジェクトのみのファイルをダウンロードするためのマニフェスト。
+
+・TCGA_gene_counts_all_files_gdc_manifest.2023-01-23.txt
+TCGAに存在するRNA-seq gene countsのデータのうち、TCGAプロジェクトのみのファイルをダウンロードするためのマニフェスト。
+
+# ディレクトリの説明
+
+・RNA_seq_transcriptome
+各原発部位ごとのRNA-seq transcriptome bamをダウンロードするためのマニフェストが保存されている。"table~" から始まるテキストファイルには各原発部位のケース数とファイル数が記録されている。
+
+・miRNA_seq
+各原発部位ごとのmiRNA-seq miRNA quantificationをダウンロードするためのマニフェストが保存されている。"table~" から始まるテキストファイルには各原発部位のケース数とファイル数が記録されている。
+
+・RNA_seq_gene_counts
+各原発部位ごとのRNA-seq gene countsをダウンロードするためのマニフェストが保存されている。"table~" から始まるテキストファイルには各原発部位のケース数とファイル数が記録されている。
