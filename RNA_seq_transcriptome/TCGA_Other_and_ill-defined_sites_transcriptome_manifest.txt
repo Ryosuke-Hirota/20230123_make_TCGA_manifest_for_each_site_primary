@@ -1,0 +1,5 @@
+id	filename	md5	size	state
+300cd48a-2eee-46af-b651-076e4afba421	26742257-2f18-41bc-bb3e-7ada99176ae8.rna_seq.transcriptome.gdc_realn.bam	18401e0465b42d790c2e625f2504ae7c	12154023502	released
+9f295a1c-9430-4b16-896f-e61d6b37145c	61521469-c55e-49b5-ab7b-66cb6c40986d.rna_seq.transcriptome.gdc_realn.bam	7f370810131be3895d654a50542ed7a4	11953818397	released
+29c5323c-ba40-4f3d-af7f-a6b1c80fe5f1	a300cbc6-15c6-416e-8b31-d07e2500a682.rna_seq.transcriptome.gdc_realn.bam	2c237aff571cf2e5d94930844f5ff9b3	8653206403	released
+42498266-803c-4afb-b907-0e366546f2ba	c4fdd057-0d8a-4455-9cd5-15615d19d899.rna_seq.transcriptome.gdc_realn.bam	edd9d85afe5b036408b91f79e6fb6548	7608256978	released

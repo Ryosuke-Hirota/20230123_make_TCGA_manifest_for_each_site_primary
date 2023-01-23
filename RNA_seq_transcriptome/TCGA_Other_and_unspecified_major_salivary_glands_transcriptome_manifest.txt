@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+d614fdb1-67a4-49cb-851c-95e8e99ccb4e	18ba7bf2-59d3-4c59-acdc-088cf3d4e5a6.rna_seq.transcriptome.gdc_realn.bam	dbf0a9e6bd67a5d6c2f64832423176e0	8863502014	released

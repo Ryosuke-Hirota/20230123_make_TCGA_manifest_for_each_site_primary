@@ -1,0 +1,11 @@
+id	filename	md5	size	state
+28c573d4-1cf0-40b7-b194-07554331b316	155b4627-6a5a-4991-a58e-609c4fcbd5b9.rna_seq.transcriptome.gdc_realn.bam	7d4f8a860b549826b6f7981650e4a7ed	20175455757	released
+5f18d0d2-1a21-4ac8-8565-a2f848117080	25de9457-d9d3-4ad6-9598-fa46727b8a97.rna_seq.transcriptome.gdc_realn.bam	2f8af86f23066787efe22f8073155455	15319048873	released
+5259a92f-c264-4755-976f-931dcf493795	a8c9315b-9084-489f-8ef6-0e061a343845.rna_seq.transcriptome.gdc_realn.bam	1086e97dacd0510eb27120e8837d82ed	14020586907	released
+28520b59-91a7-43e9-b5f3-ffcd7f4304e3	1eb2880a-311d-4ec7-a70e-be28c67898e7.rna_seq.transcriptome.gdc_realn.bam	cdb5e722273c9c07e516ca5a98144c2f	13955180894	released
+7056a8e0-93c4-4466-8894-05d85fc8c506	1b9729ad-8a2d-453e-964a-a47565ae9988.rna_seq.transcriptome.gdc_realn.bam	59fb9e38d5503dca14b40f15f103288a	13803311068	released
+2e3976f8-3cfd-4345-8ef9-a2f6a569bc9a	2761f674-9dbe-435c-b91c-70f854eeebfd.rna_seq.transcriptome.gdc_realn.bam	21103b4c833777c3d90ea0aba568f71f	15667350352	released
+c0df1ce1-6f49-443e-9d37-854c244f1d94	a7d9074b-3fcc-4563-ba1b-d2fea419a167.rna_seq.transcriptome.gdc_realn.bam	088d49c845adbc9baf5b30aed4b5abd8	19887228892	released
+515c4906-1369-413b-ab02-037b30ce70a5	60d8aac8-728d-4dea-8449-1bb1789fe9e0.rna_seq.transcriptome.gdc_realn.bam	bd3cd3dc09ef471437e6df99953be7b3	14049411765	released
+510347a7-a3e5-456f-a90f-643a426c9134	aa32595e-7c0e-43de-98fa-fe4f47463a53.rna_seq.transcriptome.gdc_realn.bam	64e82332a20625cad3d759171007789e	13218616081	released
+5aa05288-b1eb-4b06-8a52-0b6e04ba67d0	fcd0f958-124f-4a93-8361-be002944e75b.rna_seq.transcriptome.gdc_realn.bam	37339655294d9634a7e4603db32242ef	13176148016	released
