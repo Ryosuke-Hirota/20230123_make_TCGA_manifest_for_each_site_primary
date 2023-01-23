@@ -1,0 +1,54 @@
+site_primary	number_of_case	number_of_file
+Adrenal gland	228	234
+Base of tongue	24	26
+Bladder	409	437
+Bones, joints and articular cartilage of limbs	2	2
+Bones, joints and articular cartilage of other and unspecified sites	2	2
+Brain	519	537
+Breast	1080	1208
+Bronchus and lung	992	1091
+Cervix uteri	307	312
+Colon	446	467
+Connective, subcutaneous and other soft tissues	127	129
+Corpus uteri	543	572
+Esophagus	182	198
+Eye and adnexa	80	80
+Floor of mouth	56	59
+Gallbladder	1	1
+Gum	11	11
+Heart, mediastinum, and pleura	119	119
+Hematopoietic and reticuloendothelial systems	188	188
+Hypopharynx	9	9
+Kidney	875	1035
+Larynx	117	129
+Lip	3	3
+Liver and intrahepatic bile ducts	406	466
+Lymph nodes	29	29
+Meninges	1	1
+Oropharynx	10	10
+Other and ill-defined sites	4	4
+Other and ill-defined sites in lip, oral cavity and pharynx	71	84
+Other and unspecified major salivary glands	1	1
+Other and unspecified male genital organs	1	1
+Other and unspecified parts of biliary tract	2	3
+Other and unspecified parts of mouth	42	43
+Other and unspecified parts of tongue	131	144
+Other endocrine glands and related structures	1	1
+Ovary	490	500
+Palate	5	5
+Pancreas	178	183
+Peripheral nerves and autonomic nervous system	1	1
+Prostate gland	494	551
+Rectosigmoid junction	76	79
+Rectum	83	84
+Retroperitoneum and peritoneum	118	118
+Skin	448	452
+Small intestine	3	3
+Spinal cord, cranial nerves, and other parts of central nervous system	1	3
+Stomach	442	497
+Testis	151	157
+Thymus	94	96
+Thyroid gland	507	574
+Tonsil	45	46
+Unknown	1	1
+Uterus, NOS	94	96

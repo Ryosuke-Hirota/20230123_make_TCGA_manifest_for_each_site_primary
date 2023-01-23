@@ -1,0 +1,3 @@
+id	filename	md5	size	state
+4b605d23-401b-4d2d-bd7c-da1768e9ad93	e593b585-7d71-4988-8e7b-8a2e70010124.mirbase21.mirnas.quantification.txt	6e3dbea30e851319ad8bdb77bf397feb	50113	released
+72a2adab-7c13-43dd-9843-ec8810ea01af	690b1ad5-bb2e-42db-8b8f-5602116578ed.mirbase21.mirnas.quantification.txt	ee2d2338ad36f67a91d0ca8dd166311a	50257	released
