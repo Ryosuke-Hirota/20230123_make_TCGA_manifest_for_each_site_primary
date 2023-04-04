@@ -1,2 +1,1 @@
 dbe92feb-f2a4-4f0d-8404-0fce49e3ad64	80cc71e5-41f2-48a1-9d91-4dd5d97b8e13.rna_seq.transcriptome.gdc_realn.bam
-

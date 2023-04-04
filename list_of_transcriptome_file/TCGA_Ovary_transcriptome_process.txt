@@ -403,7 +403,11 @@ f7c7951c-84c9-450f-825f-e6e220166dbb	7c81d253-3d75-4f27-8cc1-b1ac20c77ff5.rna_se
 67ab60c0-5d41-46d3-bdca-37a6b3fcb41d	e542409d-6a83-430f-9437-7aee6d6be668.rna_seq.transcriptome.gdc_realn.bam
 f7851d3f-6312-45df-93cc-ee4a06b4652e	be6fc173-98ff-4aa1-a7a9-14ac5cffebc4.rna_seq.transcriptome.gdc_realn.bam
 fafea8c6-c736-4cf9-a7f1-2f4ba6b47585	7d0b634a-b842-4f7c-afd3-9ba129e38da1.rna_seq.transcriptome.gdc_realn.bam
-2e313256-9229-4df1-b56c-1b80741f2546	f03483bb-8ad5-42e2-9b5e-31e7af8edd2f.rna_seq.transcriptome.gdc_rdbe59c3.rna_seq.transcriptome.gdc_realn.bam
+2e313256-9229-4df1-b56c-1b80741f2546	f03483bb-8ad5-42e2-9b5e-31e7af8edd2f.rna_seq.transcriptome.gdc_realn.bam
+e0c0a8e0-9c53-4fbb-8845-1d80a174b97d	bd47a9d9-3e0e-4eef-ae47-887016a2df2d.rna_seq.transcriptome.gdc_realn.bam
+55563fb1-49db-434f-8e2e-3809136fb4be	793b24af-b8e0-4ecd-a07a-5710a4cb67bc.rna_seq.transcriptome.gdc_realn.bam
+596c5125-c2c6-41fd-a205-334a5a88ac0d	85eefeaf-be74-41e0-980a-0b16bc47cbc9.rna_seq.transcriptome.gdc_realn.bam
+5df3f7a8-79aa-4d82-b9ba-6e6fcd73f991	ac39fb56-aca1-4b21-bc3e-faa6ddbe59c3.rna_seq.transcriptome.gdc_realn.bam
 708cc2af-4921-4b06-a630-4c2e2598714e	ecf72b78-167b-4353-87bd-ca38c7c1d0a0.rna_seq.transcriptome.gdc_realn.bam
 b25cd51d-bbd2-4fba-b879-7f2f1a7791f2	ac2d95d8-5495-476e-860c-5c646b3b740e.rna_seq.transcriptome.gdc_realn.bam
 8427fbad-43e5-44f2-a4d7-dd7e8f3a501f	a883c598-9431-4b75-aed7-f2c8967bd020.rna_seq.transcriptome.gdc_realn.bam
@@ -421,10 +425,6 @@ f63e7b65-0205-414c-b028-9868c64d8bff	f0734d35-0a0c-4753-998c-95af43501b85.rna_se
 6d59b317-2ef1-458c-9572-a601d317f1f9	4e56c9e5-1d7e-4329-96b3-1825863e4fc0.rna_seq.transcriptome.gdc_realn.bam
 0f7715a7-ae7a-44fd-b735-37ef03000855	bd0a6575-996a-45d2-9be2-2187a1cf1cbe.rna_seq.transcriptome.gdc_realn.bam
 e39d08e0-62ea-4241-b528-a438a286b2dc	a00f0490-91d3-4a33-b4bf-3a8c3013c97e.rna_seq.transcriptome.gdc_realn.bam
-d98127ad-3427-49cf-8e93-62a5e8b16801	d5e9bdbb-009d-420a-ab9b-7e584d16465f.rna_seq.transcriptome.gdc_realn.bam
-37872884-30f4-41bc-bafc-b540aa025dc6	57439dc1-cb41-424c-ab78-f8d8efa49d27.rna_seq.transcriptome.gdc_realn.bam
-baf44bde-bf21-47bf-904c-574c767b9a14	a59aa7a4-b3c0-4c91-9776-8ebe8f710ba1.rna_seq.transcriptome.gdc_realn.bam
-4241-b528-a438a286b2dc	a00f0490-91d3-4a33-b4bf-3a8c3013c97e.rna_seq.transcriptome.gdc_realn.bam
 d98127ad-3427-49cf-8e93-62a5e8b16801	d5e9bdbb-009d-420a-ab9b-7e584d16465f.rna_seq.transcriptome.gdc_realn.bam
 37872884-30f4-41bc-bafc-b540aa025dc6	57439dc1-cb41-424c-ab78-f8d8efa49d27.rna_seq.transcriptome.gdc_realn.bam
 baf44bde-bf21-47bf-904c-574c767b9a14	a59aa7a4-b3c0-4c91-9776-8ebe8f710ba1.rna_seq.transcriptome.gdc_realn.bam

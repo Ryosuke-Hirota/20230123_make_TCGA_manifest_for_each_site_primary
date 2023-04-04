@@ -2,4 +2,3 @@
 9f295a1c-9430-4b16-896f-e61d6b37145c	61521469-c55e-49b5-ab7b-66cb6c40986d.rna_seq.transcriptome.gdc_realn.bam
 29c5323c-ba40-4f3d-af7f-a6b1c80fe5f1	a300cbc6-15c6-416e-8b31-d07e2500a682.rna_seq.transcriptome.gdc_realn.bam
 42498266-803c-4afb-b907-0e366546f2ba	c4fdd057-0d8a-4455-9cd5-15615d19d899.rna_seq.transcriptome.gdc_realn.bam
-am
